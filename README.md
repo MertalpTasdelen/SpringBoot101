@@ -1,4 +1,4 @@
-#SPRING BOOT 101
+# SPRING BOOT 101
 
 This porject is bsic learning for REST api with Spring boot and basic implementation of database CRUD operations.
 
@@ -11,7 +11,7 @@ This porject is bsic learning for REST api with Spring boot and basic implementa
  
  [Full article for that topic](https://www.journaldev.com/7969/spring-boot-tutorial)
 
-##Upcomings
+## Upcomings
 
 For that project all the basics will added this project.
 
